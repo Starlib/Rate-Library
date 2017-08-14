@@ -2,15 +2,18 @@
 
 ## OVERVIEW
 
-Starlib is a library of thermonuclear reaction and weak interaction rates. It lists in three columns, for about 50,000
-nuclear interactions, the temperature (in GK), the thermonuclear reaction rate (in $cm^3 s^-1$ mol^-1) or decay rate
+Starlib is a library of thermonuclear reaction and weak interaction rates. It lists in three columns, for about 50,000 nuclear interactions, the temperature (in GK), the thermonuclear reaction rate (in cm^3 s^-1 mol^-1) or decay rate
 (in s^-1), and the uncertainty factor of the rate. Rates and uncertainty factors are listed on a temperature grid
 from 0.001 GK to 10.0 GK. 
 
-Specific information about Starlib can be found in A.L. Sallaska, C. Iliadis, A.E. Champagne, S. Goriely, S. Starrfield, 
-and F.X. Timmes,
-"[Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics", Astrophys. J. Suppl. 207, 18 (2013)](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org). 
-The library was originally constructed by Christian Iliadis at the University of North Carolina at Chapel Hill. The project was
+Specific information about Starlib can be found in 
+
+- [A.L. Sallaska, C. Iliadis, A.E. Champagne, S. Goriely, S. Starrfield, 
+and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org) - 
+*Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics", Astrophys. J. Suppl. 207, 18 (2013)*. 
+
+
+The library was originally constructed by [Christian Iliadis](https://users.physics.unc.edu/~iliadis/Site/Home.html) at the University of North Carolina at Chapel Hill. The project was
 originally funded by the National Science Foundation under Award Number AST-1008355. At present, it is funded 
 by NASA under the Astrophysics Theory Program grant 14-ATP14-0007 and by the U.S. Department of Energy under 
 grant number DE-FG02-97ER41041. 
@@ -20,7 +23,7 @@ Below we provide some specific information. Some reaction labels may changed fro
 
 ### CHAPTER NUMBERS
 
-chapter numbers are retained from reaclib format [FORMAT 2, WITH CHAPTERS 9-11], but in starlib they are placed in fields (1:2) of each link description line; meaning of chapter numbers:
+Chapter numbers are retained from reaclib format [FORMAT 2, WITH CHAPTERS 9-11], but in starlib they are placed in fields (1:2) of each link description line; meaning of chapter numbers:
 
 1
 e1 --> e2
