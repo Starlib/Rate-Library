@@ -1,5 +1,5 @@
 # Starlib Rate Library
-=======
+
 ## OVERVIEW
 
 Starlib is a library of thermonuclear reaction and weak interaction rates. It lists in three columns, for about 50,000
