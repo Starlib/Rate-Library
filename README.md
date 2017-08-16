@@ -1,5 +1,5 @@
-# Starlib Rate Library
 <img  align="left" src="https://github.com/Starlib/Rate-Library/blob/master/logo.png" width="200">
+# Starlib Rate Library
 
 ## OVERVIEW
 
