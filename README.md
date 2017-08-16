@@ -1,7 +1,6 @@
-<img  align="right" src="https://raw.githubusercontent.com/Starlib/Rate-Library/master/logo.jpg" width="200">
+<img  align="top" src="http://starlib.physics.unc.edu/images/details_maingraphic.jpg" width="800">
+
 # Starlib Rate Library Overview
-
-
 
 Starlib is a library of thermonuclear reaction and weak interaction rates. It lists in three columns, for about 50,000 nuclear interactions, the temperature (in GK), the thermonuclear reaction rate (in cm^3 s^-1 mol^-1) or decay rate
 (in s^-1), and the uncertainty factor of the rate. Rates and uncertainty factors are listed on a temperature grid
@@ -82,19 +81,19 @@ For experimental rates not based on the Monte Carlo method, what is incorporated
 ### Reaction rates based on experiment:
 
 - cf88
-Caughlan and Fowler, ADNDT 40, 283 (1988) [38]
+[Caughlan and Fowler, ADNDT 40, 283 (1988)](http://www.sciencedirect.com/science/article/pii/0092640X88900095) [38]
 
 - de04
-Descouvemont et al., ADNDT 88, 203 (2004) [18]
+[Descouvemont et al., ADNDT 88, 203 (2004)](http://www.sciencedirect.com/science/article/pii/S0092640X04000282) [18]
 
 - mc10
-Iliadis et al., NPA 841, 31 (2010) [110]
+[Iliadis et al., NPA 841, 31 (2010)](http://www.sciencedirect.com/science/article/pii/S0375947410004197) [110]
 
 - mc13
-Sallaska et al. [18]
+[Sallaska et al. ApJ Supp. Ser. 207, 18 (2013)] (http://iopscience.iop.org/0067-0049/207/1/18/) [18]
 
 - nacr
-Angulo et al., NPA 656, 3 (1999) [55]
+[Angulo et al., NPA 656, 3 (1999)](http://www.sciencedirect.com/science/article/pii/S0375947499000305) [55]
 
 - taex
 experimental neutron induced rates, extrapolated using TALYS [283]
