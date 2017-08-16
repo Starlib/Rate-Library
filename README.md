@@ -22,54 +22,55 @@ by NASA under the Astrophysics Theory Program grant 14-ATP14-0007 and by the U.S
 grant number DE-FG02-97ER41041. 
 
 Below we provide some specific information. Some reaction labels may changed from the original 2013 publication
-(Sallaska et al.), thus we provide the latest list of source labels. 
+([Sallaska et al.](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org)), thus we provide the latest list of source labels. 
 
 ### CHAPTER NUMBERS
 
 Chapter numbers are retained from reaclib format [FORMAT 2, WITH CHAPTERS 9-11], but in starlib they are placed in fields (1:2) of each link description line; meaning of chapter numbers:
 
-- 1
+1. 
 e1 --> e2
 
-- 2
+2. 
 e1 --> e2 + e3
 
-- 3
+3. 
 e1 --> e2 + e3 + e4
 
-- 4
+4. 
 e1 + e2 --> e3 
 
-- 5
+5. 
 e1 + e2 --> e3 + e4
 
-- 6
+6. 
 e1 + e2 --> e3 + e4 + e5
 
-- 7
+7. 
 e1 + e2 --> e3 + e4 + e5 + e6
 
-- 8
+8. 
 e1 + e2 + e3 --> e4
 
-- 9
+9. 
 e1 + e2 + e3 --> e4 + e5
 
-- 10
+10. 
 e1 + e2 + e3 + e4 --> e5 + e6
 
-- 11
+11. 
 e1 --> e2 + e3 + e4 + e5
 
 ### EXPERIMENTAL MONTE CARLO-BASED REACTION RATES
 
 At the time of this writing, about 70 experimental thermonuclear reaction rates are based on the Monte Carlo method first presented in
-R. Longland, C. Iliadis, A.E. Champagne, J.R. Newton, C. Ugalde, A. Coc, and R. Fitzgerald, "Charged-Particle Thermonuclear Reaction Rates: I. Monte Carlo Method and STatistical Distributions", Nucl. Phys. A, 841, 1 (2010). 
+[R. Longland, C. Iliadis, A.E. Champagne, J.R. Newton, C. Ugalde, A. Coc, and R. Fitzgerald](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub), *Charged-Particle Thermonuclear Reaction Rates: I. Monte Carlo Method and STatistical Distributions*, Nucl. Phys. A, 841, 1 (2010). 
 
 More specifically, what is incorporated into the new library are: 
 
-- (i)  the "median rate" (50 percentile) as recommended rate, *NOT* the rate calculated from the lognormal mu (the latter is an approximation to the true distribution); 
-- (ii) the factor uncertainty, calculated using f.u.=exp(sigma), which is obtained from the
+1.   The "median rate" (50 percentile) as recommended rate, *NOT* the rate calculated from the lognormal mu (the latter is an approximation to the true distribution); 
+
+2. The factor uncertainty, calculated using f.u.=exp(sigma), which is obtained from the
 parameter sigma of the *LOGNORMAL APPROXIMATION TO THE RATE.*
 
 ### OTHER EXPERIMENTAL THERMONUCLEAR RATES
@@ -160,7 +161,7 @@ Moeller, Pfeiffer and Kratz, PRC 67, 055802 (2003) [4882]
 [Beaumel et al., PLB 514, 226 (2001)](http://www.sciencedirect.com/science/article/pii/S0370269301008280) [2] 8B(p,g)
 
 - bu15
-Buckner et al., PRC 91, 015812 (2015)
+[Buckner et al., PRC 91, 015812 (2015)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.91.015812)
 
 - ce14
 [Cesaratto et al., PRC 88, 065806 (2013)](http://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.065806) [2]
@@ -196,13 +197,12 @@ Kelly et al., to be published (2016)
 [Malaney and Fowler, ApJ 345, L5 (1989)](http://adsabs.harvard.edu/doi/10.1086/185538) [16]
 
 - mo14
-Mohr, Longland & Iliadis, PRC 90, 065806 (2014)
+[Mohr, Longland & Iliadis, PRC 90, 065806 (2014)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.90.065806)
 
 - nk06
 [Nagai et al., PRC 74, 025804 (2006)](http://prc.aps.org/abstract/PRC/v74/i2/e025804) [2]
 
-- pe16  
-[Perez-Loureiro et al., PRC 93, 064320 (2016)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.93.064320)
+- pe16 [Perez-Loureiro et al., PRC 93, 064320 (2016)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.93.064320)
 
 - po13
 [Pogrebnyak et al., PRC 88, 015808 (2013)](http://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.015808) [2]
@@ -211,7 +211,7 @@ Mohr, Longland & Iliadis, PRC 90, 065806 (2014)
 [Rehm et al., PRL 80, 676 (1998)](http://prl.aps.org/abstract/PRL/v80/i4/p676_1)_ [2] 56Ni(p,g)
 
 - rolf
-Hulke et al., Z. Phys. A 297, 1 (1980) [6] 12C+20Ne
+[Hulke et al., Z. Phys. A 297, 2 (1980)](https://link.springer.com/article/10.1007/BF01421473) [6] 12C+20Ne
 
 - se04
 [Serpico et al. JCAP 12, 010 (2004)](http://iopscience.iop.org/1475-7516/2004/12/010) [2]
