@@ -132,8 +132,11 @@ Klapdor, Metzinger and Oda, ADNDT 31, 81 (1984) [408] beta-
 
 - btykw
 Takahashi, Yamada and Kondo, ADNDT 12, 101 (1973) [6] beta+
-     ec
-pep reaction; 3He->t decay; 7Be—>7Li [3] *** 
+
+- ec
+pep reaction; 3He->t decay; 7Be—>7Li  [^1]
+[^1]: From Caughlan & Fowler 1988; these rates need to be multiplied by rho*Ye!
+
 - il11g
 Iliadis et al., ApJS 193, 16 (2011) [14]
 
@@ -223,4 +226,3 @@ Kelly et al., to be published (2016)
 Wiescher and collaborators [2] 15Opp
 
 
-(**) From Caughlan & Fowler 1988; these rates need to be multiplied by rho*Ye!
