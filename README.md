@@ -109,44 +109,44 @@ Goriely, priv. comm. [62,230]
 ### Decay rates based on experiment:
 
 - au03w
-Audi et al., NPA 729, 3 (2003) [544]
- bet-w
+[Audi et al., NPA 729, 3 (2003)](http://www.sciencedirect.com/science/article/pii/S0375947403018074) [544]
+
+- bet-w
 beta-minus decay [6]
-  bet+w
-beta-plus decay [1]
+
+- bet+w beta-plus decay [1]
 
 - ru09w
-Rugel et al., PRL 103, 072502 (2009) [1] 60Fe
+[Rugel et al., PRL 103, 072502 (2009)](http://prl.aps.org/abstract/PRL/v103/i7/e072502) [1] 60Fe
 
 - wc12w
-Tuli, wallet charts, National Nuclear Data Center (2012) [1694]
+Tuli, wallet charts, [National Nuclear Data Center (2012)](http://www.nndc.bnl.gov/) [1694]
 
-- be12w
-Beringer et al. (2012) [PDG unpublished yet?]  [1] n lifetime
+- be12w Beringer et al. (2012) [PDG unpublished yet?]  [1] n lifetime
 
 ### Decay rates based on theory:
 
 - bkmow
-Klapdor, Metzinger and Oda, ADNDT 31, 81 (1984) [408] beta-
+[Klapdor, Metzinger and Oda, ADNDT 31, 81 (1984)](http://www.sciencedirect.com/science/article/pii/0092640X84900172) [408] beta-
 
 - btykw
-Takahashi, Yamada and Kondo, ADNDT 12, 101 (1973) [6] beta+
+[Takahashi, Yamada and Kondo, ADNDT 12, 101 (1973)](http://www.sciencedirect.com/science/article/pii/0092640X73900156) [6] beta+
 
 - ec
 pep reaction; 3He->t decay; 7Be—>7Li  [^1]
 [^1]: From Caughlan & Fowler 1988; these rates need to be multiplied by rho*Ye!
 
 - il11g
-Iliadis et al., ApJS 193, 16 (2011) [14]
+[Iliadis et al., ApJS 193, 16 (2011)](http://iopscience.iop.org/0067-0049/193/1/16) [14]
 
 - ka88w
-Kajino et al., NPA 480, 175 (1988) [2]
+[Kajino et al., NPA 480, 175 (1988)](http://www.sciencedirect.com/science/article/pii/0375947488903910) [2]
 
 - mo92w
-Moeller et al. (1992) [256] beta-
+Moeller et al. (1992) [256] beta minus decay
 
 - mo03w
-Moeller, Pfeiffer and Kratz, PRC 67, 055802 (2003) [4882]
+[Moeller, Pfeiffer and Kratz, PRC 67, 055802 (2003)](http://prc.aps.org/abstract/PRC/v67/i5/e055802) [4882]
 
 ## Individual rates:
 
