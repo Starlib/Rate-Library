@@ -186,7 +186,7 @@ Mohr, Longland & Iliadis, PRC 90, 065806 (2014)
 [Nagai et al., PRC 74, 025804 (2006)](http://prc.aps.org/abstract/PRC/v74/i2/e025804) [2]
 
 - pe16  
-Perez-Loureiro et al., PRC 93, 064320 (2016)
+[Perez-Loureiro et al., PRC 93, 064320 (2016)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.93.064320)
 
 - po13
 [Pogrebnyak et al., PRC 88, 015808 (2013)](http://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.015808) [2]
