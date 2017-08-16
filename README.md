@@ -61,7 +61,12 @@ e1 --> e2 + e3 + e4 + e5
 ### EXPERIMENTAL MONTE CARLO-BASED REACTION RATES
 
 At the time of this writing, about 70 experimental thermonuclear reaction rates are based on the Monte Carlo method first presented in
-R. Longland, C. Iliadis, A.E. Champagne, J.R. Newton, C. Ugalde, A. Coc, and R. Fitzgerald, "Charged-Particle Thermonuclear Reaction Rates: I. Monte Carlo Method and STatistical Distributions", Nucl. Phys. A, 841, 1 (2010). More specifically, what is incorporated into the new library are: (i)  the "median rate" (50 percentile) as recommended rate, *NOT* the rate calculated from the lognormal mu (the latter is an approximation to the true distribution); (ii) the factor uncertainty, calculated using f.u.=exp(sigma), which is obtained from the
+R. Longland, C. Iliadis, A.E. Champagne, J.R. Newton, C. Ugalde, A. Coc, and R. Fitzgerald, "Charged-Particle Thermonuclear Reaction Rates: I. Monte Carlo Method and STatistical Distributions", Nucl. Phys. A, 841, 1 (2010). 
+
+More specifically, what is incorporated into the new library are: 
+
+- (i)  the "median rate" (50 percentile) as recommended rate, *NOT* the rate calculated from the lognormal mu (the latter is an approximation to the true distribution); 
+- (ii) the factor uncertainty, calculated using f.u.=exp(sigma), which is obtained from the
 parameter sigma of the *LOGNORMAL APPROXIMATION TO THE RATE.*
 
 ### OTHER EXPERIMENTAL THERMONUCLEAR RATES
@@ -124,7 +129,7 @@ Moeller et al. (1992) [256] beta-
 mo03w
 Moeller, Pfeiffer and Kratz, PRC 67, 055802 (2003) [4882]
 
-individual rates:
+## Individual rates:
 
 an06
 Ando et al., PRC 74, 025809 (2006) [2]
