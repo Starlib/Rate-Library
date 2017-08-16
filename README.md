@@ -1,5 +1,5 @@
 # Starlib Rate Library
-<img  align="left" src="https://raw.githubusercontent.com/COINtoolbox/photoz_catalogues/master/images/coin.png" width="200">
+<img  align="left" src="https://github.com/Starlib/Rate-Library/blob/master/logo.png" width="200">
 
 ## OVERVIEW
 
