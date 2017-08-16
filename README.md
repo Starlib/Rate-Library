@@ -75,44 +75,53 @@ For experimental rates not based on the Monte Carlo method, what is incorporated
 
 ### REACTION SOURCE LABELS
 
-reaction rates based on experiment:
+### Reaction rates based on experiment:
 
-cf88
+- cf88
 Caughlan and Fowler, ADNDT 40, 283 (1988) [38]
-de04
+
+- de04
 Descouvemont et al., ADNDT 88, 203 (2004) [18]
-mc10
+
+- mc10
 Iliadis et al., NPA 841, 31 (2010) [110]
-mc13
+
+- mc13
 Sallaska et al. [18]
-nacr
+
+- nacr
 Angulo et al., NPA 656, 3 (1999) [55]
-taex
+
+- taex
 experimental neutron induced rates, extrapolated using TALYS [283]
 
-reaction rates based on Hauser-Feshbach models:
+### Reaction rates based on Hauser-Feshbach models:
 
-taly
+- taly
 Goriely, priv. comm. [62,230]
-fkth
+
+- fkth
 Thielemann, Arnould and Truran, Adv. Nucl. Astrophys. (1987) [2]
 
-decay rates based on experiment:
+### Decay rates based on experiment:
 
-au03w
+- au03w
 Audi et al., NPA 729, 3 (2003) [544]
-  bet-w
+ bet-w
 beta-minus decay [6]
- bet+w
+  bet+w
 beta-plus decay [1]
-ru09w
+
+- ru09w
 Rugel et al., PRL 103, 072502 (2009) [1] 60Fe
-wc12w
+
+- wc12w
 Tuli, wallet charts, National Nuclear Data Center (2012) [1694]
-be12w
+
+- be12w
 Beringer et al. (2012) [PDG unpublished yet?]  [1] n lifetime
 
-decay rates based on theory:
+### Decay rates based on theory:
 
 - bkmow
 Klapdor, Metzinger and Oda, ADNDT 31, 81 (1984) [408] beta-
