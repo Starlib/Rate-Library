@@ -13,7 +13,7 @@ and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/me
 *Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics", Astrophys. J. Suppl. 207, 18 (2013)*. 
 
 
-The library was originally constructed by [Christian Iliadis](https://users.physics.unc.edu/~iliadis/Site/Home.html) at the University of North Carolina at Chapel Hill.  The library can be retrieved as a zip file from this [link](https://github.com/Starlib/Rate-Library/blob/master/data/starlib.dat.zip)
+The library was originally constructed by [Christian Iliadis](https://users.physics.unc.edu/~iliadis/Site/Home.html) at the University of North Carolina at Chapel Hill.  The library can be retrieved as a zip file from this [link](https://github.com/Starlib/Rate-Library/blob/master/data/starlib.dat.zip?raw=true)
 
 
 The project was originally funded by the National Science Foundation under Award Number AST-1008355. At present, it is funded 
