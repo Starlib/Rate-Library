@@ -90,7 +90,7 @@ For experimental rates not based on the Monte Carlo method, what is incorporated
 [Iliadis et al., NPA 841, 31 (2010)](http://www.sciencedirect.com/science/article/pii/S0375947410004197) [110]
 
 - mc13
-[Sallaska et al. ApJ Supp. Ser. 207, 18 (2013)] (http://iopscience.iop.org/0067-0049/207/1/18/) [18]
+[Sallaska et al. ApJ Supp. Ser. 207, 18 (2013)](http://iopscience.iop.org/0067-0049/207/1/18/) [18]
 
 - nacr
 [Angulo et al., NPA 656, 3 (1999)](http://www.sciencedirect.com/science/article/pii/S0375947499000305) [55]
