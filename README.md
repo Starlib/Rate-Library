@@ -76,7 +76,7 @@ parameter sigma of the *LOGNORMAL APPROXIMATION TO THE RATE.*
 
 For experimental rates not based on the Monte Carlo method, what is incorporated into Starlib is: (i) the recommended rate as calculated from the reported low and high rates (left-hand side of Eq. (39) in Longland et al.); (ii) the factor uncertainty as calculated from the reported low and high rates (right-hand side of Eq. (39) in Longland et al.); thus we explicitly assume that these rates are lognormally distributed.
 
-### REACTION SOURCE LABELS
+## Rate reference labels (links present):
 
 ### Reaction rates based on experiment:
 
@@ -104,7 +104,7 @@ experimental neutron induced rates, extrapolated using TALYS [283]
 Goriely, priv. comm. [62,230]
 
 - fkth
-Thielemann, Arnould and Truran, Adv. Nucl. Astrophys. (1987) [2]
+[Cowan, Thielemann, & Truran, Phys. Rep. 208, 267 (1991)](http://www.sciencedirect.com/science/article/pii/0370157391900703#) [2]
 
 ### Decay rates based on experiment:
 
