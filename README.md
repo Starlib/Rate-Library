@@ -1,6 +1,7 @@
-<img  align="left" src="https://raw.githubusercontent.com/Starlib/Rate-Library/master/logo.jpg" width="200">
-
+<img  align="right" src="https://raw.githubusercontent.com/Starlib/Rate-Library/master/logo.jpg" width="200">
 # Starlib Rate Library Overview
+
+
 
 Starlib is a library of thermonuclear reaction and weak interaction rates. It lists in three columns, for about 50,000 nuclear interactions, the temperature (in GK), the thermonuclear reaction rate (in cm^3 s^-1 mol^-1) or decay rate
 (in s^-1), and the uncertainty factor of the rate. Rates and uncertainty factors are listed on a temperature grid
@@ -13,7 +14,7 @@ and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/me
 *Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics", Astrophys. J. Suppl. 207, 18 (2013)*. 
 
 
-The library was originally constructed by [Christian Iliadis](https://users.physics.unc.edu/~iliadis/Site/Home.html) at the University of North Carolina at Chapel Hill.  The library can be retrieved as a zip file from this [link](https://github.com/Starlib/Rate-Library/blob/master/data/starlib.dat.zip?raw=true)
+The library was originally constructed by [Christian Iliadis](https://users.physics.unc.edu/~iliadis/Site/Home.html) at the University of North Carolina at Chapel Hill, and are available for download  at [link](https://github.com/Starlib/Rate-Library/blob/master/data/starlib.dat.zip?raw=true)
 
 
 The project was originally funded by the National Science Foundation under Award Number AST-1008355. At present, it is funded 
