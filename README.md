@@ -1,7 +1,6 @@
 <img  align="left" src="https://github.com/Starlib/Rate-Library/blob/master/logo.png" width="200">
-# Starlib Rate Library
 
-## OVERVIEW
+# Starlib Rate Library Overview
 
 Starlib is a library of thermonuclear reaction and weak interaction rates. It lists in three columns, for about 50,000 nuclear interactions, the temperature (in GK), the thermonuclear reaction rate (in cm^3 s^-1 mol^-1) or decay rate
 (in s^-1), and the uncertainty factor of the rate. Rates and uncertainty factors are listed on a temperature grid
