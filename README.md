@@ -147,55 +147,61 @@ Moeller, Pfeiffer and Kratz, PRC 67, 055802 (2003) [4882]
 Buckner et al., PRC 91, 015812 (2015)
 
 - ce14
-Cesaratto et al., PRC 88, 065806 (2013) [2]
+[Cesaratto et al., PRC 88, 065806 (2013)](http://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.065806) [2]
 
 - co15
 Coc et al., PRD, submitted (2015) [3]
 
 - cy08
-Cybert and Davids, PRC 78, 064614 (2008) [2]
+[Cybert and Davids, PRC 78, 064614 (2008)](http://prc.aps.org/abstract/PRC/v78/i6/e064614) [2]
+
 - fu90
-Fukugita & Kajino, PRD 42, 4251 (1990) [2]
+[Fukugita & Kajino, PRD 42, 4251 (1990)](http://prd.aps.org/abstract/PRD/v42/i12/p4251_1) [2]
+
 - ha10
-Hammache et al., PRC 82, 065803 (2010) [2]
+[Hammache et al., PRC 82, 065803 (2010)](http://prc.aps.org/abstract/PRC/v82/i6/e065803) [2]
+
 - il11
-Iliadis et al., ApJS 193, 16 (2011) [17]
+[Iliadis et al., ApJS 193, 16 (2011)](http://iopscience.iop.org/0067-0049/193/1/16) [17]
 
 - il16
 Iliadis et al., ApJ, submitted (2016) [3]
+
 - im05
-Imbriani et al., Eur. Phys. J A 25, 455 (2005) [2] 14N+p
+[Imbriani et al., Eur. Phys. J A 25, 455 (2005)](http://www.springerlink.com/content/35h4111k54373g47/) [2] 14N+p
 
 - ke16
 Kelly et al., to be published (2016)
 
 - ku02
-Kunz et al., ApJ 567, 643 (2002) [2] 12C+a
+[Kunz et al., ApJ 567, 643 (2002)](http://iopscience.iop.org/0004-637X/567/1/643) [2] 12C+a
 
 - mafo
-Malaney and Fowler, ApJ 345, L5 (1989) [16]
+[Malaney and Fowler, ApJ 345, L5 (1989)](http://adsabs.harvard.edu/doi/10.1086/185538) [16]
 
 - mo14
 Mohr, Longland & Iliadis, PRC 90, 065806 (2014)
-- nk06
-Nagai et al., PRC 74, 025804 (2006) [2]
 
-- pe16               Perez-Loureiro et al., PRC 93, 064320 (2016)
+- nk06
+[Nagai et al., PRC 74, 025804 (2006)](http://prc.aps.org/abstract/PRC/v74/i2/e025804) [2]
+
+- pe16  
+Perez-Loureiro et al., PRC 93, 064320 (2016)
 
 - po13
-Pogrebnyak et al., PRC 88, 015808 (2013) [2]
+[Pogrebnyak et al., PRC 88, 015808 (2013)](http://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.015808) [2]
 
 - re98
-Rehm et al., PRL 80, 676 (1998) [2] 56Ni(p,g)
+[Rehm et al., PRL 80, 676 (1998)](http://prl.aps.org/abstract/PRL/v80/i4/p676_1)_ [2] 56Ni(p,g)
 
 - rolf
 Hulke et al., Z. Phys. A 297, 1 (1980) [6] 12C+20Ne
 
 - se04
-Serpico et al. JCAP 12, 010 (2004) [2]
+[Serpico et al. JCAP 12, 010 (2004)](http://iopscience.iop.org/1475-7516/2004/12/010) [2]
 
 - ta03
-Tang et al., PRC 67, 015804 (2003) [2] 11C(p,g)
+[Tang et al., PRC 67, 015804 (2003)](http://prc.aps.org/abstract/PRC/v67/i1/e015804) [2] 11C(p,g)
 
 - wies
 Wiescher and collaborators [2] 15Opp
