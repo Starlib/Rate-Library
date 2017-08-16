@@ -114,19 +114,23 @@ Beringer et al. (2012) [PDG unpublished yet?]  [1] n lifetime
 
 decay rates based on theory:
 
-bkmow
+- bkmow
 Klapdor, Metzinger and Oda, ADNDT 31, 81 (1984) [408] beta-
-btykw
+
+- btykw
 Takahashi, Yamada and Kondo, ADNDT 12, 101 (1973) [6] beta+
      ec
 pep reaction; 3He->t decay; 7Be—>7Li [3] *** 
-il11g
+- il11g
 Iliadis et al., ApJS 193, 16 (2011) [14]
-ka88w
+
+- ka88w
 Kajino et al., NPA 480, 175 (1988) [2]
-mo92w
+
+- mo92w
 Moeller et al. (1992) [256] beta-
-mo03w
+
+- mo03w
 Moeller, Pfeiffer and Kratz, PRC 67, 055802 (2003) [4882]
 
 ## Individual rates:
