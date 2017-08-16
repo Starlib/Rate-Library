@@ -25,27 +25,37 @@ Below we provide some specific information. Some reaction labels may changed fro
 
 Chapter numbers are retained from reaclib format [FORMAT 2, WITH CHAPTERS 9-11], but in starlib they are placed in fields (1:2) of each link description line; meaning of chapter numbers:
 
-1
+- 1
 e1 --> e2
-2
+
+- 2
 e1 --> e2 + e3
-3
+
+- 3
 e1 --> e2 + e3 + e4
-4
+
+- 4
 e1 + e2 --> e3 
-5
+
+- 5
 e1 + e2 --> e3 + e4
-6
+
+- 6
 e1 + e2 --> e3 + e4 + e5
-7
+
+- 7
 e1 + e2 --> e3 + e4 + e5 + e6
-8
+
+- 8
 e1 + e2 + e3 --> e4
-9
+
+- 9
 e1 + e2 + e3 --> e4 + e5
-10
+
+- 10
 e1 + e2 + e3 + e4 --> e5 + e6
-11
+
+- 11
 e1 --> e2 + e3 + e4 + e5
 
 ### EXPERIMENTAL MONTE CARLO-BASED REACTION RATES
