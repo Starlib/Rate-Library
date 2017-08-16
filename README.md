@@ -1,4 +1,4 @@
-<img  align="left" src="https://github.com/Starlib/Rate-Library/blob/master/logo.png" width="200">
+<img  align="left" src="https://github.com/Starlib/Rate-Library/blob/master/logo.jpg" width="200">
 
 # Starlib Rate Library Overview
 
