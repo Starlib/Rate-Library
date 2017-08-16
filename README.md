@@ -135,12 +135,14 @@ Moeller, Pfeiffer and Kratz, PRC 67, 055802 (2003) [4882]
 [Ando et al., PRC 74, 025809 (2006)](http://prc.aps.org/abstract/PRC/v74/i2/e025809) [2]
 
 - ar12
-Arnold et al., PRC 85, 044605 (2012) [2]
+[Arnold et al., PRC 85, 044605 (2012)](http://prc.aps.org/abstract/PRC/v85/i4/e044605) [2]
 
 - bb92
-Rauscher et al., ApJ 429, 499 (1994) [8]
+[Rauscher et al., ApJ 429, 499 (1994)](http://adsabs.harvard.edu/doi/10.1086/174339) [8]
+
 - be01
-Beaumel et al., PLB 514, 226 (2001) [2] 8B(p,g)
+[Beaumel et al., PLB 514, 226 (2001)](http://www.sciencedirect.com/science/article/pii/S0370269301008280) [2] 8B(p,g)
+
 - bu15
 Buckner et al., PRC 91, 015812 (2015)
 
