@@ -131,54 +131,71 @@ Moeller, Pfeiffer and Kratz, PRC 67, 055802 (2003) [4882]
 
 ## Individual rates:
 
-an06
-Ando et al., PRC 74, 025809 (2006) [2]
-ar12
+- an06
+[Ando et al., PRC 74, 025809 (2006)](http://prc.aps.org/abstract/PRC/v74/i2/e025809) [2]
+
+- ar12
 Arnold et al., PRC 85, 044605 (2012) [2]
-bb92
+
+- bb92
 Rauscher et al., ApJ 429, 499 (1994) [8]
-be01
+- be01
 Beaumel et al., PLB 514, 226 (2001) [2] 8B(p,g)
-bu15
+- bu15
 Buckner et al., PRC 91, 015812 (2015)
-ce14
+
+- ce14
 Cesaratto et al., PRC 88, 065806 (2013) [2]
-co15
+
+- co15
 Coc et al., PRD, submitted (2015) [3]
-cy08
+
+- cy08
 Cybert and Davids, PRC 78, 064614 (2008) [2]
-fu90
+- fu90
 Fukugita & Kajino, PRD 42, 4251 (1990) [2]
-ha10
+- ha10
 Hammache et al., PRC 82, 065803 (2010) [2]
-il11
+- il11
 Iliadis et al., ApJS 193, 16 (2011) [17]
-il16
+
+- il16
 Iliadis et al., ApJ, submitted (2016) [3]
-im05
+- im05
 Imbriani et al., Eur. Phys. J A 25, 455 (2005) [2] 14N+p
-ke16
+
+- ke16
 Kelly et al., to be published (2016)
-ku02
+
+- ku02
 Kunz et al., ApJ 567, 643 (2002) [2] 12C+a
-mafo
+
+- mafo
 Malaney and Fowler, ApJ 345, L5 (1989) [16]
-mo14
+
+- mo14
 Mohr, Longland & Iliadis, PRC 90, 065806 (2014)
-nk06
+- nk06
 Nagai et al., PRC 74, 025804 (2006) [2]
-pe16               Perez-Loureiro et al., PRC 93, 064320 (2016)
-po13
+
+- pe16               Perez-Loureiro et al., PRC 93, 064320 (2016)
+
+- po13
 Pogrebnyak et al., PRC 88, 015808 (2013) [2]
-re98
+
+- re98
 Rehm et al., PRL 80, 676 (1998) [2] 56Ni(p,g)
-rolf
+
+- rolf
 Hulke et al., Z. Phys. A 297, 1 (1980) [6] 12C+20Ne
-se04
+
+- se04
 Serpico et al. JCAP 12, 010 (2004) [2]
-ta03
+
+- ta03
 Tang et al., PRC 67, 015804 (2003) [2] 11C(p,g)
-wies
+
+- wies
 Wiescher and collaborators [2] 15Opp
 
 
