@@ -16,7 +16,7 @@ and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/me
 The library was originally constructed by [Christian Iliadis](https://users.physics.unc.edu/~iliadis/Site/Home.html) at the University of North Carolina at Chapel Hill, and are available for download  at [link](https://github.com/Starlib/Rate-Library/blob/master/data/starlib.dat.zip?raw=true)
 
 
-The project was originally funded by the National Science Foundation under Award Number AST-1008355. At present, it is funded 
+The project was originally funded by thhe National Science Foundation under Award Number AST-1008355. At present, it is funded 
 by NASA under the Astrophysics Theory Program grant 14-ATP14-0007 and by the U.S. Department of Energy under 
 grant number DE-FG02-97ER41041. 
 
