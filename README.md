@@ -2,28 +2,26 @@
 
 # Starlib Rate Library Overview
 
-Starlib is a library of thermonuclear reaction and weak interaction rates. It lists in three columns, for about 50,000 nuclear interactions, the temperature (in GK), the thermonuclear reaction rate (in cm^3 s^-1 mol^-1) or decay rate
-(in s^-1), and the uncertainty factor of the rate. Rates and uncertainty factors are listed on a temperature grid
-from 0.001 GK to 10.0 GK. 
+Starlib is a library of thermonuclear reaction and laboratory weak interaction rates. It can be used for studies of stellar models and nucleosynthesis. Starlib lists in three columns, for about 50,000 nuclear interactions, the stellar temperature (in GK), the thermonuclear reaction rate (in cm^3 s^-1 mol^-1) or decay rate
+(in s^-1), and the uncertainty factor of the rate. The library was first introduced in 2013 [[A.L. Sallaska, C. Iliadis, A.E. Champagne, S. Goriely, S. Starrfield, and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org), 
+*Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics*, Astrophys. J. Suppl. 207, 18 (2013).] 
 
-Specific information about Starlib can be found in 
+The rates and uncertainty factors are listed on a temperature grid from 0.001 GK to 10.0 GK. Starlib incorporates about 70 experimental thermonuclear reaction rates that have been estimated using Monte Carlo methods. These methods were first introduced in 2010 
+[ [R. Longland, C. Iliadis, A.E. Champagne, J.R. Newton, C. Ugalde, A. Coc, and R. Fitzgerald](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub), *Charged-Particle Thermonuclear Reaction Rates: I. Monte Carlo Method and STatistical Distributions*, Nucl. Phys. A, 841, 1 (2010) ] 
+and 2016 
+[ [A.L. Sallaska, C. Iliadis, A.E. Champagne, S. Goriely, S. Starrfield, and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org), 
+*Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics*, Astrophys. J. Suppl. 207, 18 (2013).]
+Starlib has the unique feature of providing, at each temperature grid point, the probability density of the total reaction rate. This feature, which is important for realistic nucleosynthesis simulations, has been discussed in a review paper. [ [A.L. Sallaska, C. Iliadis, A.E. Champagne, S. Goriely, S. Starrfield, and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org), 
+*Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics*, Astrophys. J. Suppl. 207, 18 (2013).]
 
-- [A.L. Sallaska, C. Iliadis, A.E. Champagne, S. Goriely, S. Starrfield, 
-and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org) - 
-*Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics", Astrophys. J. Suppl. 207, 18 (2013)*. 
-
-
-The library was originally constructed by [Christian Iliadis](https://users.physics.unc.edu/~iliadis/Site/Home.html) at the University of North Carolina at Chapel Hill, and are available for download  at [link](https://github.com/Starlib/Rate-Library/blob/master/data/starlib.dat.zip?raw=true)
-
-
-The project was originally funded by thhe National Science Foundation under Award Number AST-1008355. At present, it is funded 
+The library was originally constructed by [Christian Iliadis](https://users.physics.unc.edu/~iliadis/Site/Home.html) at the University of North Carolina at Chapel Hill, and are available for download  at [link](https://github.com/Starlib/Rate-Library/blob/master/data/starlib.dat.zip?raw=true). You can download the entire library or a subset thereof.
+The project was previously funded by the National Science Foundation under Award Number AST-1008355. At present, it is funded 
 by NASA under the Astrophysics Theory Program grant 14-ATP14-0007 and by the U.S. Department of Energy under 
 grant number DE-FG02-97ER41041. 
 
+### CHAPTER NUMBERS
 Below we provide some specific information. Some reaction labels may changed from the original 2013 publication
 ([Sallaska et al.](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org)), thus we provide the latest list of source labels. 
-
-### CHAPTER NUMBERS
 
 Chapter numbers are retained from reaclib format [FORMAT 2, WITH CHAPTERS 9-11], but in starlib they are placed in fields (1:2) of each link description line; meaning of chapter numbers:
 
