@@ -1,8 +1,8 @@
 <img  align="top" src="banner.jpg" width="900">
 
-# Starlib: Thermonuclear Rate Library
+# STARLIB: Thermonuclear Rate Library
 
-### OVERVIEWW
+### OVERVIEW
 Starlib is a library of thermonuclear reaction and laboratory weak interaction rates. It can be used for studies of stellar models and nucleosynthesis. Starlib lists in three columns, for about 50,000 nuclear interactions, the stellar temperature (in GK), the thermonuclear reaction rate (in cm^3 s^-1 mol^-1) or decay rate
 (in s^-1), and the uncertainty factor of the rate. The library was first introduced in the paper by [Sallaska et al. (2013)](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org).
 
@@ -157,5 +157,6 @@ Wiescher and collaborators
 
 [A.L. Sallaska, C. Iliadis, A.E. Champagne, S. Goriely, S. Starrfield, and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org), *Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics*, Astrophys. J. Suppl. 207, 18 (2013). 
 
-
+### STARLIB VERSION TRACKER
+The current version is Starlib\_v6.5\_090617. 
 
