@@ -30,7 +30,6 @@ The project was initially funded by the National Science Foundation under Award 
 ### FORMAT
 
 [Reaclib](https://groups.nscl.msu.edu/jina/reaclib/db/)
->>>>>>> 140a2da7c1c71b9ca0e1d9633043390b6ea5d235
 
 For each interaction contained in Starlib, the following lines list the reaction rates on a 60-value temperature grid from 0.001 GK to 10 GK. 
 
