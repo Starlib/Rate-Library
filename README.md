@@ -2,34 +2,16 @@
 
 # Starlib: Thermonuclear Rate Library
 
-### OVERVIEW
+### OVERVIEWW
 Starlib is a library of thermonuclear reaction and laboratory weak interaction rates. It can be used for studies of stellar models and nucleosynthesis. Starlib lists in three columns, for about 50,000 nuclear interactions, the stellar temperature (in GK), the thermonuclear reaction rate (in cm^3 s^-1 mol^-1) or decay rate
 (in s^-1), and the uncertainty factor of the rate. The library was first introduced in the paper by [Sallaska et al. (2013)](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org).
 
-<<<<<<< HEAD
 The rates and uncertainty factors are listed on a temperature grid from 0.001 GK to 10.0 GK. Starlib incorporates about 70 experimental thermonuclear reaction rates that have been estimated using Monte Carlo methods. These methods were first introduced in papers by [Longland et al. (2010)](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub) and [Iliadis et al. (2016)](http://iopscience.iop.org/article/10.3847/0004-637X/831/1/107/meta). Starlib has the unique feature of providing, at each temperature grid point, the probability density of the total reaction rate. This feature is important for realistic nucleosynthesis simulations, and has been discussed in the review paper by [Iliadis et al. (2015)](http://iopscience.iop.org/article/10.1088/0954-3899/42/3/034007/meta). The latest version of the library is available for [download](https://github.com/Starlib/Rate-Library/blob/master/data/starlib.dat.zip?raw=true).  
 
 The project was initially funded by the National Science Foundation under Award Number AST-1008355. At present, it is funded by NASA under the Astrophysics Theory Program grant 14-ATP14-0007 and by the U.S. Department of Energy under grant number DE-FG02-97ER41041. 
 
 ### STARLIB FORMAT
 For each nuclear interaction contained in Starlib, the first line has a fixed format. It contains (i) the interaction type (see below) as an integer value in fields (1:2); (ii) the interacting nuclides before and after the interaction, where each nuclide label is right aligned in a field of size five; (iii) the rate reference label (see below) in fields (45:48); (iv) the interaction character in field 49, where "v", "w", and "g" stand for "reverse reaction", "laboratory weak inetraction", and "gamma-ray transition", respectively; (v) the energy released (+) or consumed (-) in the interaction in fields (54:65).
-=======
-The rates and uncertainty factors are listed on a temperature grid from 0.001 GK to 10.0 GK. Starlib incorporates about 70 experimental thermonuclear reaction rates that have been estimated using Monte Carlo methods. These methods were first introduced in papers by Longland et al. (2010) and Iliadis et al. (2016). Starlib has the unique feature of providing, at each temperature grid point, the probability density of the total reaction rate. This feature is important for realistic nucleosynthesis simulations, and has been discussed in the review paper by <a href="#note1" id="note1ref">Iliadis et al. (2015)<sup>1</sup></a>. The library is available for [download](https://github.com/Starlib/Rate-Library/blob/master/data/starlib.dat.zip?raw=true). You can download the entire library or a subset thereof. 
-
-The project was initially funded by the National Science Foundation under Award Number AST-1008355. At present, it is funded by NASA under the Astrophysics Theory Program grant 14-ATP14-0007 and by the U.S. Department of Energy under grant number DE-FG02-97ER41041. 
-
-[A.L. Sallaska, C. Iliadis, A.E. Champagne, S. Goriely, S. Starrfield, and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org), *Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics*, Astrophys. J. Suppl. 207, 18 (2013). 
-
-[R. Longland, C. Iliadis, A.E. Champagne, J.R. Newton, C. Ugalde, A. Coc, and R. Fitzgerald](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub), *Charged-Particle Thermonuclear Reaction Rates: I. Monte Carlo Method and Statistical Distributions*, Nucl. Phys. A, 841, 1 (2010).
-
-<a id="note1" href="#note1ref"><sup>1</sup></a>[C. Iliadis, K.S. Anderson, A. Coc, F.X. Timmes, and S. Starrfield](http://iopscience.iop.org/article/10.3847/0004-637X/831/1/107/meta), *Bayesian Estimation of Thermonuclear Reaction Rates*, Astrophys. J. 831, 107 (2016).
-
-[C. Iliadis, R. Longland, A. Coc, F.X. Timmes, and A.E. Champagne](http://iopscience.iop.org/article/10.1088/0954-3899/42/3/034007/meta),*Statistical Methods for Thermonuclear Reaction Rates and Nucleosynthesis Simulations*, J. Phys. G 42, 034007 (2015).
-
-### FORMAT
-
-[Reaclib](https://groups.nscl.msu.edu/jina/reaclib/db/)
->>>>>>> 140a2da7c1c71b9ca0e1d9633043390b6ea5d235
 
 For each interaction contained in Starlib, the following lines list the reaction rates on a 60-value temperature grid from 0.001 GK to 10 GK. 
 
@@ -37,7 +19,7 @@ For each interaction contained in Starlib, the following lines list the reaction
 - Column 2: the recommended rate; for experimental rates estimated using the Monte Carlo approach, the recommended rate is equal to the median rate (50 percentile).
 - Column 3: the factor uncertainty of the rate; for experimental rates estimated using the Monte Carlo approach, the factor uncertainty is obtained from the lognormal spead parameter sigma via: f.u.=exp(sigma); notice that sigma corresponds to the lognormal approximation of the rate. 
 
-Experimental rates that are not estimated using the Monte Carlo approach are incorporated into Starlib in the following manner: (i) the recommended rate as calculated from the reported low and high rates (left-hand side of Eq. (39) in [Longland et al. (2010)](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub); (ii) the factor uncertainty is calculated from the reported low and high rates (right-hand side of Eq. (39) in [Longland et al. (2010)](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub)); thus it is explicitly assumed that these rates are lognormally distributed.
+Experimental rates that are not estimated using the Monte Carlo approach are incorporated into Starlib in the following manner: (i) the recommended rate as calculated from the reported low and high rates (left-hand side of Eq. (39) in [Longland et al. (2010)](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub); (ii) the factor uncertainty is calculated from the reported low and high rates (right-hand side of Eq. (39) in [Longland et al. (2010)](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub); thus it is explicitly assumed that these rates are lognormally distributed.
 
 #### Interaction type
 The integer value between 1 and 11 in fields (1:2) denotes the following interaction types:
