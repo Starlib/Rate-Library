@@ -207,4 +207,4 @@ Kelly et al., to be published (2016)
 - wies
 Wiescher and collaborators [2] 15Opp
 
-
+[^1]: Here is the footnote.
