@@ -208,3 +208,7 @@ Kelly et al., to be published (2016)
 Wiescher and collaborators [2] 15Opp
 
 [^1]: Here is the footnote.
+
+Yadda yadda<a href="#note1" id="note1ref"><sup>1</sup></a>
+
+<a id="note1" href="#note1ref"><sup>1</sup></a>Here is the footnote text.
