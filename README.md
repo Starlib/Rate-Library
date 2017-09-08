@@ -1,6 +1,6 @@
-<img  align="top" src="banner.pdf" width="800">
+<img  align="top" src="banner.jpg" width="800">
 
-# Starlib: Thermonuclear Rate Librar
+# Starlib: Thermonuclear Rate Library
 
 ### OVERVIEW
 Starlib is a library of thermonuclear reaction and laboratory weak interaction rates. It can be used for studies of stellar models and nucleosynthesis. Starlib lists in three columns, for about 50,000 nuclear interactions, the stellar temperature (in GK), the thermonuclear reaction rate (in cm^3 s^-1 mol^-1) or decay rate
