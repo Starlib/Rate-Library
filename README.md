@@ -150,7 +150,7 @@ Wiescher and collaborators
 ### PUBLICATIONS
 [C. Iliadis, K.S. Anderson, A. Coc, F.X. Timmes, and S. Starrfield](http://iopscience.iop.org/article/10.3847/0004-637X/831/1/107/meta), *Bayesian Estimation of Thermonuclear Reaction Rates*, Astrophys. J. 831, 107 (2016).
 
-[C. Iliadis, R. Longland, A. Coc, F.X. Timmes, and A.E. Champagne](http://iopscience.iop.org/article/10.1088/0954-3899/42/3/034007/meta),*Statistical Methods for Thermonuclear Reaction Rates and Nucleosynthesis Simulations*, J. Phys. G 42, 034007 (2015).
+[C. Iliadis, R. Longland, A. Coc, F.X. Timmes, and A.E. Champagne](http://iopscience.iop.org/article/10.1088/0954-3899/42/3/034007/meta), *Statistical Methods for Thermonuclear Reaction Rates and Nucleosynthesis Simulations*, J. Phys. G 42, 034007 (2015).
 
 [R. Longland, C. Iliadis, A.E. Champagne, J.R. Newton, C. Ugalde, A. Coc, and R. Fitzgerald](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub), *Charged-Particle Thermonuclear Reaction Rates: I. Monte Carlo Method and Statistical Distributions*, Nucl. Phys. A, 841, 1 (2010).
 
