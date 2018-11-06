@@ -20,7 +20,7 @@ For each interaction contained in Starlib, the following lines list the reaction
 
 Experimental rates that are not estimated using the Monte Carlo approach are incorporated into Starlib in the following manner: (i) the recommended rate as calculated from the reported low and high rates (left-hand side of Eq. (39) in [Longland et al. (2010)](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub); (ii) the factor uncertainty is calculated from the reported low and high rates (right-hand side of Eq. (39) in [Longland et al. (2010)](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub); thus it is explicitly assumed that these rates are lognormally distributed.
 
-#### Interaction type
+#### INTERACTION TYPE
 The integer value between 1 and 11 in fields (1:2) denotes the following interaction types:
 
 1. e1 --> e2
@@ -35,7 +35,7 @@ The integer value between 1 and 11 in fields (1:2) denotes the following interac
 10. e1 + e2 + e3 + e4 --> e5 + e6
 11. e1 --> e2 + e3 + e4 + e5
 
-#### Rate reference labels
+#### RATE REFERENCE LABELS
 
 Reaction rates based on experiment:
 
@@ -70,7 +70,7 @@ beta-minus decay
 [Rugel et al., PRL 103, 072502 (2009)](http://prl.aps.org/abstract/PRL/v103/i7/e072502)
 - wc12w:
 Tuli, wallet charts, [National Nuclear Data Center (2012)](http://www.nndc.bnl.gov/)
-- be12w Beringer et al. (2012) [Particle Data Group]
+- be12w: Beringer et al. (2012) [Particle Data Group]
 
 Weak laboratory decay rates based on theory:
 
@@ -101,6 +101,8 @@ Individual rates:
 [Ando et al., PRC 74, 025809 (2006)](http://prc.aps.org/abstract/PRC/v74/i2/e025809)
 - ar12:
 [Arnold et al., PRC 85, 044605 (2012)](http://prc.aps.org/abstract/PRC/v85/i4/e044605) 
+- ba16:
+[Barbagallo et al., PRL 117, 152701 (2016)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.117.152701)
 - bb92:
 [Rauscher et al., ApJ 429, 499 (1994)](http://adsabs.harvard.edu/doi/10.1086/174339) 
 - be01:
@@ -115,6 +117,8 @@ Individual rates:
 [Cybert and Davids, PRC 78, 064614 (2008)](http://prc.aps.org/abstract/PRC/v78/i6/e064614) 
 - fu90:
 [Fukugita & Kajino, PRD 42, 4251 (1990)](http://prd.aps.org/abstract/PRD/v42/i12/p4251_1)
+- in17:
+[Gomez Inesta et al., ApJ 849, 134(2017)](http://iopscience.iop.org/article/10.3847/1538-4357/aa9025/meta)
 - ha10:
 [Hammache et al., PRC 82, 065803 (2010)](http://prc.aps.org/abstract/PRC/v82/i6/e065803) 
 - il11:
@@ -127,13 +131,16 @@ Individual rates:
 [Kelly et al., PRC 95, 015806 (2017)](https://journals.aps.org/prc/pdf/10.1103/PhysRevC.95.015806)
 - ku02:
 [Kunz et al., ApJ 567, 643 (2002)](http://iopscience.iop.org/0004-637X/567/1/643)
+- lo18:
+[Longland et al., PRC 98, 025802 (2018)](https://journals.aps.org/prc/pdf/10.1103/PhysRevC.98.025802)
 - mafo:
 [Malaney and Fowler, ApJ 345, L5 (1989)](http://adsabs.harvard.edu/doi/10.1086/185538) 
 - mo14:
 [Mohr, Longland & Iliadis, PRC 90, 065806 (2014)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.90.065806)
 - nk06:
 [Nagai et al., PRC 74, 025804 (2006)](http://prc.aps.org/abstract/PRC/v74/i2/e025804) 
-- pe16: [Perez-Loureiro et al., PRC 93, 064320 (2016)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.93.064320)
+- pe16: 
+[Perez-Loureiro et al., PRC 93, 064320 (2016)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.93.064320)
 - po13:
 [Pogrebnyak et al., PRC 88, 015808 (2013)](http://journals.aps.org/prc/abstract/10.1103/PhysRevC.88.015808)
 - re98:
