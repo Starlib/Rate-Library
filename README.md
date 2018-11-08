@@ -7,7 +7,7 @@ Starlib is a library of thermonuclear reaction and laboratory weak interaction r
 
 The rates and uncertainty factors are listed on a temperature grid from 0.001 GK to 10.0 GK. Starlib incorporates about 70 experimental thermonuclear reaction rates that have been estimated using Monte Carlo methods. These methods were first introduced in papers by [Longland et al. (2010)](http://www.sciencedirect.com/science/article/pii/S0375947410004185?via%3Dihub) and [Iliadis et al. (2016)](http://iopscience.iop.org/article/10.3847/0004-637X/831/1/107/meta). Starlib has the unique feature of providing, at each temperature grid point, the probability density of the total reaction rate. This feature is important for realistic nucleosynthesis simulations, and has been discussed in the review paper by [Iliadis et al. (2015)](http://iopscience.iop.org/article/10.1088/0954-3899/42/3/034007/meta). The latest version of the library is available for [download](https://github.com/Starlib/Rate-Library/blob/master/data/starlib_v66a_110618.dat.zip).  
 
-The script can be downloaded [here](x-github-client://openRepo/https://gist.github.com/1d737c9b44dd263d58298469494d3e0a). 
+The script can be downloaded [here](https://gist.github.com/1d737c9b44dd263d58298469494d3e0a). 
 
 The project was initially funded by the National Science Foundation under Award Number AST-1008355. At present, it is funded by NASA under the Astrophysics Theory Program grant 14-ATP14-0007 and by the U.S. Department of Energy under grant number DE-FG02-97ER41041. 
 
