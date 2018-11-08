@@ -8,11 +8,14 @@ C-------------------------------------------------------------------------
       integer i,j,k,numspec,geta,niso,n,m,nhelp,help
       integer atotal,inatotal,add,total,totin,totout
       character*5 translate,spec(6),spec2(6),iso(10000)
-      character*70 instring
+      character*70 instring,ratedatafile
       real*8 temp(60),rate(60),uncert(60)
 
+      write(6,*) 'Enter name of starlib file to be truncated:'
+      read(5,*) ratedatafile
+
       OPEN(20,FILE='sunet.dat',STATUS='unknown')
-      OPEN(30,FILE='starlib.dat',STATUS='unknown')
+      OPEN(30,FILE=ratedatafile,STATUS='unknown')
       open(40,file='reactions.dat',status='unknown')
 
       numspec=6
@@ -104,9 +107,8 @@ c-----------------------------------------------------------------
       close(30)
       close(40)
 
+ 937  write(6,*) 'Truncated output can be found in reactions.dat'
       write(6,*)
- 937  write(6,*) ' end type 0'
-      read(5,'(a1)') help
            
       END
                                                       
