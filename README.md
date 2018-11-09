@@ -6,7 +6,7 @@
 Dowload the Starlib library [here.](https://github.com/Starlib/Rate-Library/blob/master/data/starlib_v66a_110618.dat.zip)
 Contents and format are described in the paragraphs below.
 
-[reduceNet.f:](https://gist.github.com/RafaelSdeSouza/1d737c9b44dd263d58298469494d3e0a/archive/2a42280cf0ab2fd9d6899032864823607e6c777b.zip)
+Dowload a script to truncate the Starlib library [here:](https://gist.github.com/RafaelSdeSouza/1d737c9b44dd263d58298469494d3e0a/archive/2a42280cf0ab2fd9d6899032864823607e6c777b.zip)
 Fortran script for truncating the starlib library. It uses as input the (unzipped) starlib file downloaded by the users and a list of nuclides (sunet.dat; see link below) that the user would like to have in the reaction network. The output is a truncated starlib library that contains only links involving the nuclides listed in sunet.dat. 
 
 [sunet.dat:]()
