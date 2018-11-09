@@ -5,7 +5,7 @@
 ### FILES FOR DOWNLOAD
 Starlib library
 
-[reduceNet.f] (https://gist.github.com/RafaelSdeSouza/1d737c9b44dd263d58298469494d3e0a/archive/2a42280cf0ab2fd9d6899032864823607e6c777b.zip)
+[reduceNet.f](https://gist.github.com/RafaelSdeSouza/1d737c9b44dd263d58298469494d3e0a/archive/2a42280cf0ab2fd9d6899032864823607e6c777b.zip)
 
 sunet.dat
 
