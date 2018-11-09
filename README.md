@@ -173,6 +173,3 @@ Wiescher and collaborators
 
 [A.L. Sallaska, C. Iliadis, A.E. Champagne, S. Goriely, S. Starrfield, and F.X. Timmes](http://iopscience.iop.org/article/10.1088/0067-0049/207/1/18/meta;jsessionid=FA2A43B811A79AC60CC83A94C160FA33.c4.iopscience.cld.iop.org), *Starlib: A Next-Generation Reaction-Rate Library for Nuclear Astrophysics*, Astrophys. J. Suppl. 207, 18 (2013). 
 
-### STARLIB VERSION TRACKER
-The current version is [Starlib\_v6.6\_110618](https://github.com/Starlib/Rate-Library/blob/master/data/starlib_v66a_110618.dat.zip). 
-
