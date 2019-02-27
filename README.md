@@ -125,6 +125,10 @@ Individual rates:
 [Coc et al., PRD 92, 123526 (2015)](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.92.123526)
 - cy08:
 [Cybert and Davids, PRC 78, 064614 (2008)](http://prc.aps.org/abstract/PRC/v78/i6/e064614) 
+- de18:
+[de Souza et al., PRC 99, 014619 (2019)](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.014619)
+- de19:
+[de Souza, Iliadis and Coc, ApJ 872, 75 (2019)](https://iopscience.iop.org/article/10.3847/1538-4357/aafda9/meta)
 - fu90:
 [Fukugita & Kajino, PRD 42, 4251 (1990)](http://prd.aps.org/abstract/PRD/v42/i12/p4251_1)
 - in17:
