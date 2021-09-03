@@ -3,7 +3,7 @@
 # STARLIB: Thermonuclear Rate Library
 
 ### FILES FOR DOWNLOAD
-Dowload the Starlib library [here](https://github.com/Starlib/Rate-Library/blob/master/data/starlib_v66a_110618.dat.zip).
+Dowload the Starlib library [here](https://github.com/Starlib/Rate-Library/tree/master/data).
 Contents and format are described in the paragraphs below.
 
 Dowload a Fortran script (reduceNet.f) to truncate the Starlib library [here](https://gist.github.com/RafaelSdeSouza/1d737c9b44dd263d58298469494d3e0a/archive/2a42280cf0ab2fd9d6899032864823607e6c777b.zip).
